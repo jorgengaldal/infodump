@@ -1,0 +1,1782 @@
+[
+  {
+    "navn": "Oslo",
+    "url": "https://www.oslo.kommune.no/",
+    "mail": "Placeholder"
+  },
+  {
+    "navn": "Eigersund",
+    "url": "https://www.eigersund.kommune.no/",
+    "mail": "post@eigersund.kommune.no"
+  },
+  {
+    "navn": "Stavanger",
+    "url": "https://www.stavanger.kommune.no/",
+    "mail": "postmottak@stavanger.kommune.no"
+  },
+  {
+    "navn": "Sandnes",
+    "url": "https://www.sandnes.kommune.no/",
+    "mail": "postmottak@sandnes.kommune.no"
+  },
+  {
+    "navn": "Sokndal",
+    "url": "https://www.sokndal.kommune.no/",
+    "mail": "postmottak@sokndal.kommune.no"
+  },
+  {
+    "navn": "Lund",
+    "url": "https://www.lund.kommune.no/",
+    "mail": "postmottak@lund.kommune.no"
+  },
+  {
+    "navn": "Bjerkreim",
+    "url": "https://www.bjerkreim.kommune.no/",
+    "mail": "postmottak@bjerkreim.kommune.no"
+  },
+  {
+    "navn": "Klepp",
+    "url": "https://www.klepp.kommune.no/",
+    "mail": "postmottak@klepp.kommune.no"
+  },
+  {
+    "navn": "Time",
+    "url": "https://www.time.kommune.no/",
+    "mail": "post@time.kommune.no"
+  },
+  {
+    "navn": "Gjesdal",
+    "url": "https://www.gjesdal.kommune.no/",
+    "mail": "post@gjesdal.kommune.no"
+  },
+  {
+    "navn": "Sola",
+    "url": "https://www.sola.kommune.no/",
+    "mail": "epost@sola.kommune.no"
+  },
+  {
+    "navn": "Randaberg",
+    "url": "https://www.randaberg.kommune.no/",
+    "mail": "post@randaberg.kommune.no"
+  },
+  {
+    "navn": "Strand",
+    "url": "https://www.strand.kommune.no/",
+    "mail": "postmottak@strand.kommune.no"
+  },
+  {
+    "navn": "Hjelmeland",
+    "url": "https://www.hjelmeland.kommune.no/",
+    "mail": "postmottak@hjelmeland.kommune.no"
+  },
+  {
+    "navn": "Suldal",
+    "url": "https://www.suldal.kommune.no/",
+    "mail": "postmottak@suldal.kommune.no"
+  },
+  {
+    "navn": "Sauda",
+    "url": "https://www.sauda.kommune.no/",
+    "mail": "post@sauda.kommune.no"
+  },
+  {
+    "navn": "Bokn",
+    "url": "https://www.bokn.kommune.no/",
+    "mail": "post@bokn.kommune.no"
+  },
+  {
+    "navn": "Tysv\u00e6r",
+    "url": "https://www.tysver.kommune.no/",
+    "mail": "post@tysver.kommune.no"
+  },
+  {
+    "navn": "Karm\u00f8y",
+    "url": "https://www.karmoy.kommune.no/",
+    "mail": "post@karmoy.kommune.no"
+  },
+  {
+    "navn": "Utsira",
+    "url": "https://utsira.kommune.no/",
+    "mail": "post@utsira.kommune.no"
+  },
+  {
+    "navn": "Vindafjord",
+    "url": "https://www.vindafjord.kommune.no/",
+    "mail": "postmottak@vindafjord.kommune.no"
+  },
+  {
+    "navn": "Kristiansund",
+    "url": "https://www.kristiansund.kommune.no/",
+    "mail": "servicetorg@kristiansund.kommune.no"
+  },
+  {
+    "navn": "Molde",
+    "url": "https://www.molde.kommune.no/",
+    "mail": "postmottak@molde.kommune.no"
+  },
+  {
+    "navn": "\u00c5lesund",
+    "url": "https://alesund.kommune.no/",
+    "mail": "postmottak@alesund.kommune.no"
+  },
+  {
+    "navn": "Vanylven",
+    "url": "https://www.vanylven.kommune.no/",
+    "mail": "postmottak@vanylven.kommune.no"
+  },
+  {
+    "navn": "Sande",
+    "url": "https://www.sande-mr.kommune.no/",
+    "mail": "postmottak@sande-mr.kommune.no"
+  },
+  {
+    "navn": "Her\u00f8y",
+    "url": "https://www.heroy.kommune.no/",
+    "mail": "postmottak@heroy.kommune.no"
+  },
+  {
+    "navn": "Ulstein",
+    "url": "https://www.ulstein.kommune.no/",
+    "mail": "postmottak@ulstein.kommune.no"
+  },
+  {
+    "navn": "Hareid",
+    "url": "https://www.hareid.kommune.no/",
+    "mail": "postmottak@hareid.kommune.no"
+  },
+  {
+    "navn": "\u00d8rsta",
+    "url": "https://www.orsta.kommune.no/",
+    "mail": " postmottak@orsta.kommune.no"
+  },
+  {
+    "navn": "Stranda",
+    "url": "https://www.stranda.kommune.no/",
+    "mail": "post@stranda.kommune.no"
+  },
+  {
+    "navn": "Sykkylven",
+    "url": "https://www.sykkylven.kommune.no/",
+    "mail": "postmottak@sykkylven.kommune.no"
+  },
+  {
+    "navn": "Sula",
+    "url": "https://www.sula.kommune.no/",
+    "mail": "post@sula.kommune.no"
+  },
+  {
+    "navn": "Giske",
+    "url": "https://www.giske.kommune.no/",
+    "mail": "post@giske.kommune.no"
+  },
+  {
+    "navn": "Vestnes",
+    "url": "https://www.vestnes.kommune.no/",
+    "mail": "postmottak@vestnes.kommune.no"
+  },
+  {
+    "navn": "Rauma",
+    "url": "https://www.rauma.kommune.no/",
+    "mail": " post@rauma.kommune.no"
+  },
+  {
+    "navn": "Aukra",
+    "url": "https://www.aukra.kommune.no/",
+    "mail": "post@aukra.kommune.no"
+  },
+  {
+    "navn": "Aver\u00f8y",
+    "url": "https://www.averoy.kommune.no/",
+    "mail": "post@averoy.kommune.no"
+  },
+  {
+    "navn": "Gjemnes",
+    "url": "https://www.gjemnes.kommune.no/",
+    "mail": "post@gjemnes.kommune.no"
+  },
+  {
+    "navn": "Tingvoll",
+    "url": "https://www.tingvoll.kommune.no/",
+    "mail": "postmottak@tingvoll.kommune.no"
+  },
+  {
+    "navn": "Sunndal",
+    "url": "https://www.sunndal.kommune.no/",
+    "mail": "post@sunndal.kommune.no"
+  },
+  {
+    "navn": "Surnadal",
+    "url": "https://www.surnadal.kommune.no/",
+    "mail": "post@surnadal.kommune.no"
+  },
+  {
+    "navn": "Sm\u00f8la",
+    "url": "https://www.smola.kommune.no/",
+    "mail": "postmottak@smola.kommune.no"
+  },
+  {
+    "navn": "Aure",
+    "url": "https://www.aure.kommune.no/",
+    "mail": "postmottak@aure.kommune.no"
+  },
+  {
+    "navn": "Volda",
+    "url": "https://www.volda.kommune.no/",
+    "mail": "postmottak@volda.kommune.no"
+  },
+  {
+    "navn": "Fjord",
+    "url": "https://www.fjord.kommune.no/",
+    "mail": "post@fjord.kommune.no"
+  },
+  {
+    "navn": "Hustadvika",
+    "url": "https://hustadvika.kommune.no/",
+    "mail": "postmottak@hustadvika.kommune.no"
+  },
+  {
+    "navn": "Narvik",
+    "url": "https://www.narvik.kommune.no/",
+    "mail": "postmottak@narvik.kommune.no"
+  },
+  {
+    "navn": "Bindal",
+    "url": "https://www.bindal.kommune.no/",
+    "mail": "postmottak@bindal.kommune.no"
+  },
+  {
+    "navn": "S\u00f8mna",
+    "url": "http://www.somna.kommune.no/",
+    "mail": "post@somna.kommune.no"
+  },
+  {
+    "navn": "Vega",
+    "url": "http://www.vega.kommune.no/",
+    "mail": "postkasse@vega.kommune.no"
+  },
+  {
+    "navn": "Vevelstad",
+    "url": "http://www.vevelstad.kommune.no/",
+    "mail": "post@vevelstad.kommune.no"
+  },
+  {
+    "navn": "Leirfjord",
+    "url": "https://www.leirfjord.kommune.no/",
+    "mail": "post@leirfjord.kommune.no"
+  },
+  {
+    "navn": "Vefsn",
+    "url": "https://www.vefsn.kommune.no/",
+    "mail": "post@vefsn.kommune.no"
+  },
+  {
+    "navn": "Grane",
+    "url": "https://www.grane.kommune.no/",
+    "mail": "post@grane.kommune.no"
+  },
+  {
+    "navn": "D\u00f8nna",
+    "url": "https://www.donna.kommune.no/",
+    "mail": "post@donna.kommune.no"
+  },
+  {
+    "navn": "Nesna",
+    "url": "https://www.nesna.kommune.no/",
+    "mail": "postmottak@nesna.kommune.no"
+  },
+  {
+    "navn": "Hemnes",
+    "url": "https://www.hemnes.kommune.no/",
+    "mail": "postmottak@hemnes.kommune.no"
+  },
+  {
+    "navn": "Rana",
+    "url": "https://www.rana.kommune.no/",
+    "mail": "postmottak@rana.kommune.no"
+  },
+  {
+    "navn": "Tr\u00e6na",
+    "url": "https://www.trana.kommune.no/",
+    "mail": "post@trana.kommune.no"
+  },
+  {
+    "navn": "Mel\u00f8y",
+    "url": "https://www.meloy.kommune.no/",
+    "mail": "postmottak@meloy.kommune.no"
+  },
+  {
+    "navn": "Gildesk\u00e5l",
+    "url": "https://www.gildeskal.kommune.no/",
+    "mail": "postmottak@gildeskal.kommune.no"
+  },
+  {
+    "navn": "Beiarn",
+    "url": "https://www.beiarn.kommune.no/",
+    "mail": "post@beiarn.kommune.no"
+  },
+  {
+    "navn": "Saltdal",
+    "url": "https://www.saltdal.kommune.no/",
+    "mail": "postmottak@saltdal.kommune.no"
+  },
+  {
+    "navn": "Fauske",
+    "url": "https://www.fauske.kommune.no/",
+    "mail": "postmottak@fauske.kommune.no"
+  },
+  {
+    "navn": "S\u00f8rfold",
+    "url": "https://www.sorfold.kommune.no/",
+    "mail": "post@sorfold.kommune.no"
+  },
+  {
+    "navn": "Steigen",
+    "url": "https://www.steigen.kommune.no/",
+    "mail": "postmottak@steigen.kommune.no"
+  },
+  {
+    "navn": "L\u00f8dingen",
+    "url": "https://www.lodingen.kommune.no/",
+    "mail": "postmottak@lodingen.kommune.no"
+  },
+  {
+    "navn": "Evenes",
+    "url": "https://www.evenes.kommune.no/",
+    "mail": "postmottak@evenes.kommune.no"
+  },
+  {
+    "navn": "R\u00f8st",
+    "url": "https://rost.kommune.no/",
+    "mail": "postkasse@rost.kommune.no"
+  },
+  {
+    "navn": "V\u00e6r\u00f8y",
+    "url": "https://varoy.kommune.no/",
+    "mail": "postmottak@varoy.kommune.no"
+  },
+  {
+    "navn": "Flakstad",
+    "url": "https://flakstad.kommune.no/",
+    "mail": "postmottak@flakstad.kommune.no"
+  },
+  {
+    "navn": "Vestv\u00e5g\u00f8y",
+    "url": "https://www.vestvagoy.kommune.no/",
+    "mail": "postmottak@vestvagoy.kommune.no"
+  },
+  {
+    "navn": "V\u00e5gan",
+    "url": "https://vagan.kommune.no/",
+    "mail": "postmottak@vagan.kommune.no"
+  },
+  {
+    "navn": "Hadsel",
+    "url": "https://www.hadsel.kommune.no/",
+    "mail": "postmottak@hadsel.kommune.no"
+  },
+  {
+    "navn": "B\u00f8",
+    "url": "https://www.boe.kommune.no/",
+    "mail": "post@boe.kommune.no"
+  },
+  {
+    "navn": "\u00d8ksnes",
+    "url": "https://www.oksnes.kommune.no/",
+    "mail": "post@oksnes.kommune.no"
+  },
+  {
+    "navn": "Sortland",
+    "url": "https://www.sortland.kommune.no/",
+    "mail": "postmottak@sortland.kommune.no"
+  },
+  {
+    "navn": "And\u00f8y",
+    "url": "http://www.andoy.kommune.no/",
+    "mail": "postmottak@andoy.kommune.no"
+  },
+  {
+    "navn": "Moskenes",
+    "url": "https://moskenes.kommune.no/",
+    "mail": "postmottak@moskenes.kommune.no"
+  },
+  {
+    "navn": "Hamar\u00f8y",
+    "url": "https://www.hamaroy.kommune.no/",
+    "mail": "postmottak@hamaroy.kommune.no"
+  },
+  {
+    "navn": "Halden",
+    "url": "https://www.halden.kommune.no/",
+    "mail": "postmottak@halden.kommune.no"
+  },
+  {
+    "navn": "Moss",
+    "url": "https://www.moss.kommune.no/",
+    "mail": "post@moss.kommune.no"
+  },
+  {
+    "navn": "Fredrikstad",
+    "url": "https://www.fredrikstad.kommune.no/",
+    "mail": "postmottak@fredrikstad.kommune.no"
+  },
+  {
+    "navn": "Drammen",
+    "url": "https://www.drammen.kommune.no/",
+    "mail": "kommunepost@drammen.kommune.no"
+  },
+  {
+    "navn": "Kongsberg",
+    "url": "https://www.kongsberg.kommune.no/",
+    "mail": "postmottak@kongsberg.kommune.no"
+  },
+  {
+    "navn": "Ringerike",
+    "url": "https://www.ringerike.kommune.no/",
+    "mail": "postmottak@ringerike.kommune.no"
+  },
+  {
+    "navn": "Hvaler",
+    "url": "https://www.hvaler.kommune.no/",
+    "mail": "postmottak@hvaler.kommune.no"
+  },
+  {
+    "navn": "Aremark",
+    "url": "https://www.aremark.kommune.no/",
+    "mail": "post@aremark.kommune.no"
+  },
+  {
+    "navn": "Marker",
+    "url": "https://www.marker.kommune.no/",
+    "mail": "post@marker.kommune.no"
+  },
+  {
+    "navn": "Indre \u00d8stfold",
+    "url": "https://www.io.kommune.no/",
+    "mail": "post@io.kommune.no"
+  },
+  {
+    "navn": "Skiptvet",
+    "url": "https://www.skiptvet.kommune.no/",
+    "mail": "postmottak@skiptvet.kommune.no"
+  },
+  {
+    "navn": "Rakkestad",
+    "url": "https://www.rakkestad.kommune.no/",
+    "mail": "postmottak@rakkestad.kommune.no"
+  },
+  {
+    "navn": "R\u00e5de",
+    "url": "https://www.rade.kommune.no/Webpartside.aspx?MId1=4",
+    "mail": "post@rade.kommune.no"
+  },
+  {
+    "navn": "V\u00e5ler",
+    "url": "http://www.valer-of.kommune.no/",
+    "mail": "postmottak@valer-of.kommune.no"
+  },
+  {
+    "navn": "Vestby",
+    "url": "https://www.vestby.kommune.no/",
+    "mail": "post@vestby.kommune.no"
+  },
+  {
+    "navn": "Nordre Follo",
+    "url": "https://www.nordrefollo.kommune.no/",
+    "mail": "postmottak@nordrefollo.kommune.no"
+  },
+  {
+    "navn": "\u00c5s",
+    "url": "https://www.as.kommune.no/",
+    "mail": "post@as.kommune.no"
+  },
+  {
+    "navn": "Frogn",
+    "url": "https://www.frogn.kommune.no/",
+    "mail": "postmottak@frogn.kommune.no"
+  },
+  {
+    "navn": "Nesodden",
+    "url": "https://www.nesodden.kommune.no/",
+    "mail": "postmottak@nesodden.kommune.no"
+  },
+  {
+    "navn": "B\u00e6rum",
+    "url": "https://www.baerum.kommune.no/",
+    "mail": "post@baerum.kommune.no"
+  },
+  {
+    "navn": "Asker",
+    "url": "https://www.asker.kommune.no/",
+    "mail": "post@asker.kommune.no"
+  },
+  {
+    "navn": "Aurskog-H\u00f8land",
+    "url": "https://www.aurskog-holand.kommune.no/",
+    "mail": "postmottak@ahk.no"
+  },
+  {
+    "navn": "Enebakk",
+    "url": "https://www.enebakk.kommune.no/",
+    "mail": "postmottak@enebakk.kommune.no"
+  },
+  {
+    "navn": "L\u00f8renskog",
+    "url": "https://www.lorenskog.kommune.no/",
+    "mail": "postmottak@lorenskog.kommune.no"
+  },
+  {
+    "navn": "Gjerdrum",
+    "url": "https://www.gjerdrum.kommune.no/",
+    "mail": "postmottak@gjerdrum.kommune.no"
+  },
+  {
+    "navn": "Ullensaker",
+    "url": "https://www.ullensaker.kommune.no/",
+    "mail": "postmottak@ullensaker.kommune.no"
+  },
+  {
+    "navn": "Nes",
+    "url": "https://www.nes.kommune.no/aktuelt/",
+    "mail": "postmottak@nes-ak.kommune.no"
+  },
+  {
+    "navn": "Eidsvoll",
+    "url": "https://www.eidsvoll.kommune.no/",
+    "mail": "postmottak@eidsvoll.kommune.no"
+  },
+  {
+    "navn": "Nannestad",
+    "url": "https://www.nannestad.kommune.no/",
+    "mail": "postmottak@nannestad.kommune.no"
+  },
+  {
+    "navn": "Hurdal",
+    "url": "https://www.hurdal.kommune.no/",
+    "mail": "postmottak@hurdal.kommune.no"
+  },
+  {
+    "navn": "Hole",
+    "url": "https://www.hole.kommune.no/",
+    "mail": "postmottak@hole.kommune.no"
+  },
+  {
+    "navn": "Fl\u00e5",
+    "url": "https://www.flaa.kommune.no/",
+    "mail": "postmottak@flaa.kommune.no"
+  },
+  {
+    "navn": "Nesbyen",
+    "url": "https://www.nesbyen.kommune.no/",
+    "mail": "postmottak@nesbyen.kommune.no"
+  },
+  {
+    "navn": "Gol",
+    "url": "https://www.gol.kommune.no/",
+    "mail": "postmottak@gol.kommune.no"
+  },
+  {
+    "navn": "Hemsedal",
+    "url": "https://www.hemsedal.kommune.no/",
+    "mail": "postmottak@hemsedal.kommune.no"
+  },
+  {
+    "navn": "\u00c5l",
+    "url": "https://www.aal.kommune.no/",
+    "mail": "postmottak@aal.kommune.no"
+  },
+  {
+    "navn": "Hol",
+    "url": "https://www.hol.kommune.no/",
+    "mail": "postmottak@hol.kommune.no"
+  },
+  {
+    "navn": "Sigdal",
+    "url": "https://www.sigdal.kommune.no/",
+    "mail": "post@sigdal.kommune.no"
+  },
+  {
+    "navn": "Kr\u00f8dsherad",
+    "url": "https://www.krodsherad.kommune.no/",
+    "mail": "krodsherad.kommune@krodsherad.kommune.no"
+  },
+  {
+    "navn": "Modum",
+    "url": "https://www.modum.kommune.no/",
+    "mail": "post@modum.kommune.no"
+  },
+  {
+    "navn": "Lier",
+    "url": "https://www.lier.kommune.no/",
+    "mail": "postmottak@lier.kommune.no"
+  },
+  {
+    "navn": "Flesberg",
+    "url": "https://www.flesberg.kommune.no/",
+    "mail": "post@flesberg.kommune.no"
+  },
+  {
+    "navn": "Rollag",
+    "url": "https://www.rollag.kommune.no/",
+    "mail": "postmottak@rollag.kommune.no"
+  },
+  {
+    "navn": "Nore og Uvdal",
+    "url": "https://www.nore-og-uvdal.kommune.no/",
+    "mail": "post@nore-og-uvdal.kommune.no"
+  },
+  {
+    "navn": "Lunner",
+    "url": "https://www.lunner.kommune.no/",
+    "mail": "post@lunner.kommune.no"
+  },
+  {
+    "navn": "Kongsvinger",
+    "url": "https://www.kongsvinger.kommune.no/",
+    "mail": "postmottak@kongsvinger.kommune.no"
+  },
+  {
+    "navn": "Hamar",
+    "url": "https://www.hamar.kommune.no/",
+    "mail": "postmottak@hamar.kommune.no"
+  },
+  {
+    "navn": "Lillehammer",
+    "url": "https://www.lillehammer.kommune.no/",
+    "mail": "postmottak@lillehammer.kommune.no"
+  },
+  {
+    "navn": "Gj\u00f8vik",
+    "url": "https://www.gjovik.kommune.no/",
+    "mail": "postmottak@gjovik.kommune.no"
+  },
+  {
+    "navn": "Ringsaker",
+    "url": "https://www.ringsaker.kommune.no/",
+    "mail": "postmottak@ringsaker.kommune.no"
+  },
+  {
+    "navn": "L\u00f8ten",
+    "url": "https://www.loten.kommune.no/",
+    "mail": "post@loten.kommune.no"
+  },
+  {
+    "navn": "Stange",
+    "url": "https://www.stange.kommune.no/",
+    "mail": "post@stange.kommune.no"
+  },
+  {
+    "navn": "Eidskog",
+    "url": "https://www.eidskog.kommune.no/",
+    "mail": "postmottak@eidskog.kommune.no"
+  },
+  {
+    "navn": "Grue",
+    "url": "https://www.grue.kommune.no/",
+    "mail": "post@grue.kommune.no"
+  },
+  {
+    "navn": "Elverum",
+    "url": "https://www.elverum.kommune.no/",
+    "mail": "postmottak@elverum.kommune.no"
+  },
+  {
+    "navn": "Trysil",
+    "url": "https://www.trysil.kommune.no/Sider/side.aspx",
+    "mail": "postmottak@trysil.kommune.no"
+  },
+  {
+    "navn": "\u00c5mot",
+    "url": "https://www.amot.kommune.no/",
+    "mail": "postmottak@amot.kommune.no"
+  },
+  {
+    "navn": "Rendalen",
+    "url": "https://www.rendalen.kommune.no/",
+    "mail": "postmottak@rendalen.kommune.no"
+  },
+  {
+    "navn": "Engerdal",
+    "url": "https://www.engerdal.kommune.no/",
+    "mail": "postmottak@engerdal.kommune.no"
+  },
+  {
+    "navn": "Tynset",
+    "url": "https://www.tynset.kommune.no/",
+    "mail": "postmottak@tynset.kommune.no"
+  },
+  {
+    "navn": "Alvdal",
+    "url": "https://www.alvdal.kommune.no/",
+    "mail": "postmottak@alvdal.kommune.no"
+  },
+  {
+    "navn": "Folldal",
+    "url": "https://www.folldal.kommune.no/",
+    "mail": "postmottak@folldal.kommune.no"
+  },
+  {
+    "navn": "Os",
+    "url": "https://os.kommune.no/",
+    "mail": "postmottak@os.kommune.no"
+  },
+  {
+    "navn": "Dovre",
+    "url": "https://www.dovre.kommune.no/",
+    "mail": " postmottak@dovre.kommune.no"
+  },
+  {
+    "navn": "Lesja",
+    "url": "https://www.lesja.kommune.no/",
+    "mail": "postmottak@lesja.kommune.no"
+  },
+  {
+    "navn": "Skj\u00e5k",
+    "url": "https://www.skjaak.kommune.no/",
+    "mail": "post@skjaak.kommune.no"
+  },
+  {
+    "navn": "Lom",
+    "url": "https://www.lom.kommune.no/",
+    "mail": "post@lom.kommune.no"
+  },
+  {
+    "navn": "V\u00e5g\u00e5",
+    "url": "https://www.vaga.kommune.no/",
+    "mail": "postmottak@vaga.kommune.no"
+  },
+  {
+    "navn": "Nord-Fron",
+    "url": "https://www.nord-fron.kommune.no/",
+    "mail": "post@nord-fron.kommune.no"
+  },
+  {
+    "navn": "Sel",
+    "url": "https://www.sel.kommune.no/",
+    "mail": "postmottak@sel.kommune.no"
+  },
+  {
+    "navn": "Ringebu",
+    "url": "https://www.ringebu.kommune.no/",
+    "mail": "post@ringebu.kommune.no"
+  },
+  {
+    "navn": "\u00d8yer",
+    "url": "https://www.oyer.kommune.no/",
+    "mail": "postmottak@oyer.kommune.no"
+  },
+  {
+    "navn": "Gausdal",
+    "url": "https://www.gausdal.kommune.no/",
+    "mail": "postmottak@gausdal.kommune.no"
+  },
+  {
+    "navn": "\u00d8stre Toten",
+    "url": "https://www.ostre-toten.kommune.no/",
+    "mail": "postmottak@ostre-toten.kommune.no"
+  },
+  {
+    "navn": "Vestre Toten",
+    "url": "https://www.vestre-toten.kommune.no/",
+    "mail": "post@vestre-toten.kommune.no"
+  },
+  {
+    "navn": "Gran",
+    "url": "https://www.gran.kommune.no/",
+    "mail": "postmottak@gran.kommune.no"
+  },
+  {
+    "navn": "S\u00f8ndre Land",
+    "url": "https://www.sondre-land.kommune.no/",
+    "mail": "epost@sondre-land.kommune.no"
+  },
+  {
+    "navn": "Nordre Land",
+    "url": "https://www.nordre-land.kommune.no/",
+    "mail": "postmottak@nordre-land.kommune.no"
+  },
+  {
+    "navn": "S\u00f8r-Aurdal",
+    "url": "https://www.sor-aurdal.kommune.no/",
+    "mail": "postmottak@sor-aurdal.kommune.no"
+  },
+  {
+    "navn": "Etnedal",
+    "url": "https://www.etnedal.kommune.no/",
+    "mail": "postmottak@etnedal.kommune.no"
+  },
+  {
+    "navn": "Nord-Aurdal",
+    "url": "https://www.nord-aurdal.kommune.no/",
+    "mail": "nak@nord-aurdal.kommune.no"
+  },
+  {
+    "navn": "Vestre Slidre",
+    "url": "https://www.vestre-slidre.kommune.no/",
+    "mail": "post@vestre-slidre.kommune.no"
+  },
+  {
+    "navn": "\u00d8ystre Slidre",
+    "url": "https://www.oystre-slidre.kommune.no/",
+    "mail": "post@oystre-slidre.kommune.no"
+  },
+  {
+    "navn": "Vang",
+    "url": "https://www.vang.kommune.no/",
+    "mail": "post@vang.kommune.no"
+  },
+  {
+    "navn": "Horten",
+    "url": "https://www.horten.kommune.no/",
+    "mail": "postmottak@horten.kommune.no"
+  },
+  {
+    "navn": "Holmestrand",
+    "url": "https://holmestrand.kommune.no/",
+    "mail": "postmottak@holmestrand.kommune.no"
+  },
+  {
+    "navn": "T\u00f8nsberg",
+    "url": "https://www.tonsberg.kommune.no/",
+    "mail": "postmottak@tonsberg.kommune.no"
+  },
+  {
+    "navn": "Sandefjord",
+    "url": "https://www.sandefjord.kommune.no/",
+    "mail": "post@sandefjord.kommune.no"
+  },
+  {
+    "navn": "Larvik",
+    "url": "https://www.larvik.kommune.no/",
+    "mail": "postmottak@larvik.kommune.no"
+  },
+  {
+    "navn": "Porsgrunn",
+    "url": "https://www.porsgrunn.kommune.no/",
+    "mail": "postmottak@porsgrunn.kommune.no"
+  },
+  {
+    "navn": "Skien",
+    "url": "https://www.skien.kommune.no/",
+    "mail": "skien.postmottak@skien.kommune.no"
+  },
+  {
+    "navn": "Notodden",
+    "url": "https://www.notodden.kommune.no/",
+    "mail": "postmottak@notodden.kommune.no"
+  },
+  {
+    "navn": "Siljan",
+    "url": "https://www.siljan.kommune.no/",
+    "mail": "post@siljan.kommune.no"
+  },
+  {
+    "navn": "Bamble",
+    "url": "https://www.bamble.kommune.no/",
+    "mail": "postmottak@bamble.kommune.no"
+  },
+  {
+    "navn": "Krager\u00f8",
+    "url": "https://www.kragero.kommune.no/",
+    "mail": "post@kragero.kommune.no"
+  },
+  {
+    "navn": "Drangedal",
+    "url": "http://www.drangedal.kommune.no/",
+    "mail": "postmottak@drangedal.kommune.no"
+  },
+  {
+    "navn": "Nome",
+    "url": "https://www.nome.kommune.no/",
+    "mail": "postmottak@nome.kommune.no"
+  },
+  {
+    "navn": "Midt-Telemark",
+    "url": "https://midt-telemark.kommune.no/",
+    "mail": "post@mt.kommune.no"
+  },
+  {
+    "navn": "Tinn",
+    "url": "https://www.tinn.kommune.no/",
+    "mail": "postmottak@tinn.kommune.no"
+  },
+  {
+    "navn": "Hjartdal",
+    "url": "https://www.hjartdal.kommune.no/",
+    "mail": "postmottak@hjartdal.kommune.no"
+  },
+  {
+    "navn": "Seljord",
+    "url": "https://www.seljord.kommune.no/",
+    "mail": "post@seljord.kommune.no"
+  },
+  {
+    "navn": "Kviteseid",
+    "url": "https://www.kviteseid.kommune.no/",
+    "mail": "post@kviteseid.kommune.no"
+  },
+  {
+    "navn": "Nissedal",
+    "url": "https://www.nissedal.kommune.no/",
+    "mail": "postmottak@nissedal.kommune.no"
+  },
+  {
+    "navn": "Fyresdal",
+    "url": "https://www.fyresdal.kommune.no/",
+    "mail": "postmottak@fyresdal.kommune.no"
+  },
+  {
+    "navn": "Tokke",
+    "url": "https://www.tokke.kommune.no/",
+    "mail": "postmottak@tokke.kommune.no"
+  },
+  {
+    "navn": "Vinje",
+    "url": "https://www.vinje.kommune.no/",
+    "mail": "postmottak@vinje.kommune.no"
+  },
+  {
+    "navn": "Ris\u00f8r",
+    "url": "https://www.risor.kommune.no/",
+    "mail": "post@risor.kommune.no"
+  },
+  {
+    "navn": "Grimstad",
+    "url": "https://www.grimstad.kommune.no/",
+    "mail": "postmottak@grimstad.kommune.no"
+  },
+  {
+    "navn": "Arendal",
+    "url": "https://www.arendal.kommune.no/",
+    "mail": "postmottak@arendal.kommune.no"
+  },
+  {
+    "navn": "Kristiansand",
+    "url": "https://www.kristiansand.kommune.no/",
+    "mail": "post@kristiansand.kommune.no"
+  },
+  {
+    "navn": "Lindesnes",
+    "url": "https://www.lindesnes.kommune.no/",
+    "mail": "post@lindesnes.kommune.no"
+  },
+  {
+    "navn": "Farsund",
+    "url": "https://www.farsund.kommune.no/",
+    "mail": "post@farsund.kommune.no"
+  },
+  {
+    "navn": "Flekkefjord",
+    "url": "https://www.flekkefjord.kommune.no/",
+    "mail": "post@flekkefjord.kommune.no"
+  },
+  {
+    "navn": "Gjerstad",
+    "url": "https://www.gjerstad.kommune.no/",
+    "mail": "postmottak@gjerstad.kommune.no"
+  },
+  {
+    "navn": "Veg\u00e5rshei",
+    "url": "https://www.vegarshei.kommune.no/",
+    "mail": "post@vegarshei.kommune.no"
+  },
+  {
+    "navn": "Tvedestrand",
+    "url": "https://www.tvedestrand.kommune.no/",
+    "mail": "post@tvedestrand.kommune.no"
+  },
+  {
+    "navn": "Froland",
+    "url": "https://www.froland.kommune.no/",
+    "mail": "post@froland.kommune.no"
+  },
+  {
+    "navn": "Lillesand",
+    "url": "https://www.lillesand.kommune.no/",
+    "mail": "postmottak@lillesand.kommune.no"
+  },
+  {
+    "navn": "Birkenes",
+    "url": "https://www.birkenes.kommune.no/",
+    "mail": "postmottak@birkenes.kommune.no"
+  },
+  {
+    "navn": "\u00c5mli",
+    "url": "https://www.amli.kommune.no/",
+    "mail": "postmottak@amli.kommune.no"
+  },
+  {
+    "navn": "Iveland",
+    "url": "https://www.iveland.kommune.no/",
+    "mail": "post@iveland.kommune.no"
+  },
+  {
+    "navn": "Evje og Hornnes",
+    "url": "https://www.e-h.kommune.no/",
+    "mail": "post@e-h.kommune.no"
+  },
+  {
+    "navn": "Bygland",
+    "url": "https://www.bygland.kommune.no/",
+    "mail": "post@bygland.kommune.no"
+  },
+  {
+    "navn": "Bykle",
+    "url": "https://www.bykle.kommune.no/",
+    "mail": "postmottak@bykle.kommune.no"
+  },
+  {
+    "navn": "\u00c5seral",
+    "url": "https://www.aseral.kommune.no/",
+    "mail": "post@aseral.kommune.no"
+  },
+  {
+    "navn": "Lyngdal",
+    "url": "https://www.lyngdal.kommune.no/",
+    "mail": "post@lyngdal.kommune.no"
+  },
+  {
+    "navn": "H\u00e6gebostad",
+    "url": "https://www.haegebostad.kommune.no/",
+    "mail": "post@haegebostad.kommune.no"
+  },
+  {
+    "navn": "Kvinesdal",
+    "url": "https://www.kvinesdal.kommune.no/",
+    "mail": "post@kvinesdal.kommune.no"
+  },
+  {
+    "navn": "Sirdal",
+    "url": "https://www.sirdal.kommune.no/",
+    "mail": "post@sirdal.kommune.no"
+  },
+  {
+    "navn": "Bergen",
+    "url": "https://www.bergen.kommune.no/",
+    "mail": "postmottak@bergen.kommune.no"
+  },
+  {
+    "navn": "Kinn",
+    "url": "https://kinn.kommune.no/",
+    "mail": "post@kinn.kommune.no"
+  },
+  {
+    "navn": "Etne",
+    "url": "https://www.etne.kommune.no/",
+    "mail": "post@etne.kommune.no"
+  },
+  {
+    "navn": "Sveio",
+    "url": "https://www.sveio.kommune.no/",
+    "mail": "postmottak@sveio.kommune.no"
+  },
+  {
+    "navn": "B\u00f8mlo",
+    "url": "https://www.bomlo.kommune.no/",
+    "mail": "postmottak@bomlo.kommune.no"
+  },
+  {
+    "navn": "Stord",
+    "url": "https://www.stord.kommune.no/",
+    "mail": "post@stord.kommune.no"
+  },
+  {
+    "navn": "Fitjar",
+    "url": "http://www.fitjar.kommune.no/",
+    "mail": "fitjar@fitjar.kommune.no"
+  },
+  {
+    "navn": "Tysnes",
+    "url": "https://www.tysnes.kommune.no/",
+    "mail": "post@tysnes.kommune.no"
+  },
+  {
+    "navn": "Kvinnherad",
+    "url": "https://www.kvinnherad.kommune.no/",
+    "mail": "post@kvinnherad.kommune.no"
+  },
+  {
+    "navn": "Ullensvang",
+    "url": "https://ullensvang.kommune.no/",
+    "mail": "postmottak@ullensvang.kommune.no"
+  },
+  {
+    "navn": "Eidfjord",
+    "url": "https://www.eidfjord.kommune.no/",
+    "mail": "postmottak@eidfjord.kommune.no"
+  },
+  {
+    "navn": "Ulvik",
+    "url": "https://www.ulvik.kommune.no/",
+    "mail": "postmottak@ulvik.kommune.no"
+  },
+  {
+    "navn": "Voss",
+    "url": "https://voss.herad.no/",
+    "mail": "postmottak@voss.herad.no"
+  },
+  {
+    "navn": "Kvam",
+    "url": "https://www.kvam.no/",
+    "mail": "postmottak@kvam.kommune.no"
+  },
+  {
+    "navn": "Samnanger",
+    "url": "https://www.samnanger.kommune.no/",
+    "mail": "postmottak@samnanger.kommune.no"
+  },
+  {
+    "navn": "Bj\u00f8rnafjorden",
+    "url": "https://bjornafjorden.kommune.no/",
+    "mail": "post@bjornafjorden.kommune.no"
+  },
+  {
+    "navn": "Austevoll",
+    "url": "https://www.austevoll.kommune.no/",
+    "mail": "postmottak@austevoll.kommune.no"
+  },
+  {
+    "navn": "\u00d8ygarden",
+    "url": "https://www.oygarden.kommune.no/",
+    "mail": "postmottak@oygarden.kommune.no"
+  },
+  {
+    "navn": "Ask\u00f8y",
+    "url": "https://askoy.kommune.no/",
+    "mail": "postmottak@askoy.kommune.no"
+  },
+  {
+    "navn": "Vaksdal",
+    "url": "https://www.vaksdal.kommune.no/",
+    "mail": "post@vaksdal.kommune.no"
+  },
+  {
+    "navn": "Modalen",
+    "url": "https://www.modalen.kommune.no/",
+    "mail": "postmottak@modalen.kommune.no"
+  },
+  {
+    "navn": "Oster\u00f8y",
+    "url": "https://www.osteroy.kommune.no/",
+    "mail": "post@osteroy.kommune.no"
+  },
+  {
+    "navn": "Alver",
+    "url": "https://www.alver.kommune.no/",
+    "mail": "post@alver.kommune.no"
+  },
+  {
+    "navn": "Austrheim",
+    "url": "https://www.austrheim.kommune.no/",
+    "mail": "post@austrheim.kommune.no"
+  },
+  {
+    "navn": "Fedje",
+    "url": "https://www.fedje.kommune.no/",
+    "mail": "postmottak@fedje.kommune.no"
+  },
+  {
+    "navn": "Masfjorden",
+    "url": "https://www.masfjorden.kommune.no/",
+    "mail": "post@masfjorden.kommune.no"
+  },
+  {
+    "navn": "Solund",
+    "url": "https://www.solund.kommune.no/",
+    "mail": "post@solund.kommune.no"
+  },
+  {
+    "navn": "Hyllestad",
+    "url": "https://www.hyllestad.kommune.no/",
+    "mail": "postmottak@hyllestad.kommune.no"
+  },
+  {
+    "navn": "H\u00f8yanger",
+    "url": "https://www.hoyanger.kommune.no/",
+    "mail": "postmottak@hoyanger.kommune.no"
+  },
+  {
+    "navn": "Vik",
+    "url": "https://www.vik.kommune.no/",
+    "mail": "postmottak@vik.kommune.no"
+  },
+  {
+    "navn": "Sogndal",
+    "url": "https://www.sogndal.kommune.no/",
+    "mail": "postmottak@sogndal.kommune.no"
+  },
+  {
+    "navn": "Aurland",
+    "url": "https://www.aurland.kommune.no/",
+    "mail": "post@aurland.kommune.no"
+  },
+  {
+    "navn": "L\u00e6rdal",
+    "url": "https://www.laerdal.kommune.no/",
+    "mail": "post@laerdal.kommune.no"
+  },
+  {
+    "navn": "\u00c5rdal",
+    "url": "https://www.ardal.kommune.no/",
+    "mail": "postmottak@ardal.kommune.no"
+  },
+  {
+    "navn": "Luster",
+    "url": "https://www.luster.kommune.no/",
+    "mail": "postmottak@luster.kommune.no"
+  },
+  {
+    "navn": "Askvoll",
+    "url": "https://www.askvoll.kommune.no/",
+    "mail": "postmottak@Askvoll.kommune.no"
+  },
+  {
+    "navn": "Fjaler",
+    "url": "https://www.fjaler.kommune.no/",
+    "mail": "post@fjaler.kommune.no"
+  },
+  {
+    "navn": "Sunnfjord",
+    "url": "https://sunnfjord.kommune.no/",
+    "mail": "postmottak@sunnfjord.kommune.no"
+  },
+  {
+    "navn": "Bremanger",
+    "url": "https://bremanger.kommune.no/",
+    "mail": "post@bremanger.kommune.no"
+  },
+  {
+    "navn": "Stad",
+    "url": "https://stad.kommune.no/",
+    "mail": "post@stad.kommune.no"
+  },
+  {
+    "navn": "Gloppen",
+    "url": "https://gloppen.kommune.no/",
+    "mail": "post@gloppen.kommune.no"
+  },
+  {
+    "navn": "Stryn",
+    "url": "https://stryn.kommune.no/",
+    "mail": "postmottak@stryn.kommune.no"
+  },
+  {
+    "navn": "Trondheim",
+    "url": "https://www.trondheim.kommune.no/",
+    "mail": "tk.postmottak@trondheim.kommune.no"
+  },
+  {
+    "navn": "Steinkjer",
+    "url": "https://www.steinkjer.kommune.no/",
+    "mail": "postmottak@steinkjer.kommune.no"
+  },
+  {
+    "navn": "Namsos",
+    "url": "https://namsos.kommune.no/",
+    "mail": "postmottak@namsos.kommune.no"
+  },
+  {
+    "navn": "Fr\u00f8ya",
+    "url": "https://www.froya.kommune.no/",
+    "mail": "postmottak@froya.kommune.no"
+  },
+  {
+    "navn": "Osen",
+    "url": "https://www.osen.kommune.no/",
+    "mail": "postmottak@osen.kommune.no"
+  },
+  {
+    "navn": "Oppdal",
+    "url": "https://www.oppdal.kommune.no/",
+    "mail": "post@oppdal.kommune.no"
+  },
+  {
+    "navn": "Holt\u00e5len",
+    "url": "https://holtalen.kommune.no/",
+    "mail": "epost@holtalen.kommune.no"
+  },
+  {
+    "navn": "Melhus",
+    "url": "https://www.melhus.kommune.no/",
+    "mail": "postmottak@melhus.kommune.no"
+  },
+  {
+    "navn": "Skaun",
+    "url": "https://www.skaun.kommune.no/",
+    "mail": "postmottak@skaun.kommune.no"
+  },
+  {
+    "navn": "Malvik",
+    "url": "https://www.malvik.kommune.no/",
+    "mail": "postmottak@malvik.kommune.no"
+  },
+  {
+    "navn": "Selbu",
+    "url": "https://www.selbu.kommune.no/",
+    "mail": "postmottak@selbu.kommune.no"
+  },
+  {
+    "navn": "Tydal",
+    "url": "https://www.tydal.kommune.no/",
+    "mail": "postmottak@tydal.kommune.no"
+  },
+  {
+    "navn": "Mer\u00e5ker",
+    "url": "https://www.meraker.kommune.no/",
+    "mail": "postmottak@meraker.kommune.no"
+  },
+  {
+    "navn": "Stj\u00f8rdal",
+    "url": "https://www.stjordal.kommune.no/",
+    "mail": "postmottak@stjordal.kommune.no"
+  },
+  {
+    "navn": "Frosta",
+    "url": "https://www.frosta.kommune.no/",
+    "mail": "postmottak@frosta.kommune.no"
+  },
+  {
+    "navn": "Levanger",
+    "url": "https://www.levanger.kommune.no/",
+    "mail": "postmottak@levanger.kommune.no"
+  },
+  {
+    "navn": "Verdal",
+    "url": "https://www.verdal.kommune.no/",
+    "mail": "postmottak@verdal.kommune.no"
+  },
+  {
+    "navn": "Sn\u00e5sa",
+    "url": "https://www.snasa.kommune.no/",
+    "mail": "postmottak@snasa.kommune.no"
+  },
+  {
+    "navn": "Lierne",
+    "url": "https://www.lierne.kommune.no/",
+    "mail": "postmottak@lierne.kommune.no"
+  },
+  {
+    "navn": "R\u00f8yrvik",
+    "url": "https://www.royrvik.kommune.no/",
+    "mail": "postmottak@royrvik.kommune.no"
+  },
+  {
+    "navn": "Namsskogan",
+    "url": "https://www.namsskogan.kommune.no/",
+    "mail": "postmottak@namsskogan.kommune.no"
+  },
+  {
+    "navn": "Grong",
+    "url": "https://www.grong.kommune.no/",
+    "mail": "postmottak@grong.kommune.no"
+  },
+  {
+    "navn": "Overhalla",
+    "url": "https://www.overhalla.kommune.no/",
+    "mail": "postmottak@overhalla.kommune.no"
+  },
+  {
+    "navn": "Flatanger",
+    "url": "https://www.flatanger.kommune.no/",
+    "mail": "postmottak@flatanger.kommune.no"
+  },
+  {
+    "navn": "Leka",
+    "url": "http://www.leka.kommune.no/",
+    "mail": "post@leka.kommune.no"
+  },
+  {
+    "navn": "Inder\u00f8y",
+    "url": "https://www.inderoy.kommune.no/",
+    "mail": "postmottak@inderoy.kommune.no"
+  },
+  {
+    "navn": "Indre Fosen",
+    "url": "https://www.indrefosen.kommune.no/",
+    "mail": "postmottak@indrefosen.kommune.no"
+  },
+  {
+    "navn": "Heim",
+    "url": "https://www.heim.kommune.no/",
+    "mail": "post@heim.kommune.no"
+  },
+  {
+    "navn": "Hitra",
+    "url": "https://www.hitra.kommune.no/",
+    "mail": "postmottak@hitra.kommune.no"
+  },
+  {
+    "navn": "\u00d8rland",
+    "url": "https://orland.kommune.no/",
+    "mail": "postmottak@orland.kommune.no"
+  },
+  {
+    "navn": "Orkland",
+    "url": "https://www.orkland.kommune.no/",
+    "mail": "postmottak@orkland.kommune.no"
+  },
+  {
+    "navn": "N\u00e6r\u00f8ysund",
+    "url": "https://www.naroysund.kommune.no/",
+    "mail": "post@naroysund.kommune.no"
+  },
+  {
+    "navn": "Rindal",
+    "url": "https://www.rindal.kommune.no/",
+    "mail": "post@rindal.kommune.no"
+  },
+  {
+    "navn": "Troms\u00f8",
+    "url": "https://www.tromso.kommune.no/",
+    "mail": "postmottak@tromso.kommune.no"
+  },
+  {
+    "navn": "Harstad",
+    "url": "https://www.harstad.kommune.no/",
+    "mail": "postmottak@harstad.kommune.no"
+  },
+  {
+    "navn": "Alta",
+    "url": "https://www.alta.kommune.no/",
+    "mail": "postmottak@alta.kommune.no"
+  },
+  {
+    "navn": "Vard\u00f8",
+    "url": "https://www.vardo.kommune.no/",
+    "mail": "postmottak@vardo.kommune.no"
+  },
+  {
+    "navn": "Hammerfest",
+    "url": "https://hammerfest.kommune.no/",
+    "mail": "postmottak@hammerfest.kommune.no"
+  },
+  {
+    "navn": "Tjeldsund",
+    "url": "https://www.tjeldsund.kommune.no/",
+    "mail": "post@tjeldsund.kommune.no"
+  },
+  {
+    "navn": "Ibestad",
+    "url": "https://www.ibestad.kommune.no/",
+    "mail": "postmottak@ibestad.kommune.no"
+  },
+  {
+    "navn": "Gratangen",
+    "url": "http://www.gratangen.kommune.no/",
+    "mail": "postmottak@gratangen.kommune.no"
+  },
+  {
+    "navn": "Lavangen",
+    "url": "https://www.lavangen.kommune.no/",
+    "mail": "post@lavangen.kommune.no"
+  },
+  {
+    "navn": "Bardu",
+    "url": "https://www.bardu.kommune.no/",
+    "mail": "postmottak@bardu.kommune.no"
+  },
+  {
+    "navn": "Salangen",
+    "url": "https://www.salangen.kommune.no/",
+    "mail": "postmottak@salangen.kommune.no"
+  },
+  {
+    "navn": "M\u00e5lselv",
+    "url": "https://www.malselv.kommune.no/",
+    "mail": "postmottak@malselv.kommune.no"
+  },
+  {
+    "navn": "S\u00f8rreisa",
+    "url": "https://www.sorreisa.kommune.no/",
+    "mail": "postmottak@sorreisa.kommune.no"
+  },
+  {
+    "navn": "Dyr\u00f8y",
+    "url": "https://www.dyroy.kommune.no/",
+    "mail": "postmottak@dyroy.kommune.no"
+  },
+  {
+    "navn": "Senja",
+    "url": "https://www.senja.kommune.no/",
+    "mail": "post@senja.kommune.no"
+  },
+  {
+    "navn": "Balsfjord",
+    "url": "https://www.balsfjord.kommune.no/",
+    "mail": "postmottak@balsfjord.kommune.no"
+  },
+  {
+    "navn": "Karls\u00f8y",
+    "url": "https://www.karlsoy.kommune.no/",
+    "mail": "postmottak@karlsoy.kommune.no"
+  },
+  {
+    "navn": "Lyngen",
+    "url": "https://www.lyngen.kommune.no/",
+    "mail": "post@lyngen.kommune.no"
+  },
+  {
+    "navn": "Storfjord",
+    "url": "https://www.storfjord.kommune.no/",
+    "mail": "post@storfjord.kommune.no"
+  },
+  {
+    "navn": "K\u00e5fjord",
+    "url": "https://www.kafjord.kommune.no/",
+    "mail": "post@kafjord.kommune.no"
+  },
+  {
+    "navn": "Skjerv\u00f8y",
+    "url": "https://www.skjervoy.kommune.no/",
+    "mail": "post@skjervoy.kommune.no"
+  },
+  {
+    "navn": "Nordreisa",
+    "url": "https://www.nordreisa.kommune.no/",
+    "mail": "postmottak@nordreisa.kommune.no"
+  },
+  {
+    "navn": "Kv\u00e6nangen",
+    "url": "https://www.kvanangen.kommune.no/",
+    "mail": "post@kvanangen.kommune.no"
+  },
+  {
+    "navn": "Kautokeino",
+    "url": "https://www.guovdageainnu.suohkan.no/",
+    "mail": "e-post@kautokeino.kommune.no"
+  },
+  {
+    "navn": "Loppa",
+    "url": "https://www.loppa.kommune.no/",
+    "mail": "postmottak@loppa.kommune.no"
+  },
+  {
+    "navn": "Hasvik",
+    "url": "https://www.hasvik.kommune.no/",
+    "mail": "post@hasvik.kommune.no"
+  },
+  {
+    "navn": "M\u00e5s\u00f8y",
+    "url": "https://www.masoy.kommune.no/",
+    "mail": "postmottak@masoy.kommune.no"
+  },
+  {
+    "navn": "Nordkapp",
+    "url": "https://www.nordkapp.kommune.no/",
+    "mail": "postmottak@nordkapp.kommune.no"
+  },
+  {
+    "navn": "Porsanger",
+    "url": "https://www.porsanger.kommune.no/",
+    "mail": "postmottak@porsanger.kommune.no"
+  },
+  {
+    "navn": "Karasjok",
+    "url": "https://www.karasjok.kommune.no/",
+    "mail": "postmottak@karasjok.kommune.no"
+  },
+  {
+    "navn": "Lebesby",
+    "url": "https://www.lebesby.kommune.no/",
+    "mail": "postmottak@lebesby.kommune.no"
+  },
+  {
+    "navn": "Gamvik",
+    "url": "https://www.gamvik.kommune.no/",
+    "mail": "postmottak@gamvik.kommune.no"
+  },
+  {
+    "navn": "Berlev\u00e5g",
+    "url": "https://www.berlevag.kommune.no/",
+    "mail": "postmottak@berlevag.kommune.no"
+  },
+  {
+    "navn": "Tana",
+    "url": "https://www.tana.kommune.no/",
+    "mail": "postmottak@tana.kommune.no"
+  },
+  {
+    "navn": "Nesseby",
+    "url": "https://www.nesseby.kommune.no/",
+    "mail": "postmottak@nesseby.kommune.no"
+  },
+  {
+    "navn": "B\u00e5tsfjord",
+    "url": "https://www.batsfjord.kommune.no/",
+    "mail": "postmottak@batsfjord.kommune.no"
+  },
+  {
+    "navn": "S\u00f8r-Varanger",
+    "url": "https://www.sor-varanger.kommune.no/",
+    "mail": "postmottak@sor-varanger.kommune.no"
+  },
+  {
+    "navn": "Haugesund",
+    "url": "https://www.haugesund.kommune.no/",
+    "mail": "postmottak@haugesund.kommune.no"
+  },
+  {
+    "navn": "H\u00e5",
+    "url": "https://ha.kommune.no/Webpartside.aspx?MId1=4",
+    "mail": "post@ha.kommune.no"
+  },
+  {
+    "navn": "Kvits\u00f8y",
+    "url": "https://www.kvitsoy.kommune.no/",
+    "mail": "post@kvitsoy.kommune.no"
+  },
+  {
+    "navn": "Bod\u00f8",
+    "url": "https://bodo.kommune.no/",
+    "mail": "postmottak@bodo.kommune.no"
+  },
+  {
+    "navn": "R\u00f8d\u00f8y",
+    "url": "http://www.rodoy.kommune.no/",
+    "mail": "postmottak@rodoy.kommune.no"
+  },
+  {
+    "navn": "R\u00e6lingen",
+    "url": "https://www.ralingen.kommune.no/",
+    "mail": "postmottak@ralingen.kommune.no"
+  },
+  {
+    "navn": "Lillestr\u00f8m",
+    "url": "https://www.lillestrom.kommune.no/",
+    "mail": "postmottak@lillestrom.kommune.no"
+  },
+  {
+    "navn": "Nittedal",
+    "url": "https://www.nittedal.kommune.no/",
+    "mail": "postmottak@nittedal.kommune.no"
+  },
+  {
+    "navn": "\u00d8vre Eiker",
+    "url": "https://ovre-eiker.kommune.no/",
+    "mail": "post@ovre-eiker.kommune.no"
+  },
+  {
+    "navn": "Nord-Odal",
+    "url": "https://www.nord-odal.kommune.no/",
+    "mail": "postmottak@nord-odal.kommune.no"
+  },
+  {
+    "navn": "S\u00f8r-Odal",
+    "url": "https://www.sor-odal.kommune.no/",
+    "mail": "postmottak@sor-odal.kommune.no"
+  },
+  {
+    "navn": "\u00c5snes",
+    "url": "https://www.asnes.kommune.no/",
+    "mail": "post@asnes.kommune.no"
+  },
+  {
+    "navn": "Stor-Elvdal",
+    "url": "https://www.stor-elvdal.kommune.no/",
+    "mail": "postmottak@stor-elvdal.kommune.no"
+  },
+  {
+    "navn": "Tolga",
+    "url": "https://www.tolga.kommune.no/",
+    "mail": "postmottak@tolga.kommune.no"
+  },
+  {
+    "navn": "S\u00f8r-Fron",
+    "url": "https://www.sor-fron.kommune.no/",
+    "mail": "postmottak@sor-fron.kommune.no"
+  },
+  {
+    "navn": "F\u00e6rder",
+    "url": "https://www.faerder.kommune.no/",
+    "mail": "postmottak@faerder.kommune.no"
+  },
+  {
+    "navn": "Vennesla",
+    "url": "https://www.vennesla.kommune.no/",
+    "mail": "post@vennesla.kommune.no"
+  },
+  {
+    "navn": "Gulen",
+    "url": "https://www.gulen.kommune.no/",
+    "mail": "postmottak@gulen.kommune.no"
+  },
+  {
+    "navn": "Rennebu",
+    "url": "https://www.rennebu.kommune.no/",
+    "mail": "postmottak@rennebu.kommune.no"
+  },
+  {
+    "navn": "H\u00f8ylandet",
+    "url": "https://www.hoylandet.kommune.no/",
+    "mail": "postmottak@hoylandet.kommune.no"
+  },
+  {
+    "navn": "\u00c5fjord",
+    "url": "https://www.afjord.kommune.no/",
+    "mail": "postmottak@afjord.kommune.no"
+  },
+  {
+    "navn": "Vads\u00f8",
+    "url": "https://www.vadso.kommune.no/",
+    "mail": "postmottak@vadso.kommune.no"
+  },
+  {
+    "navn": "Kv\u00e6fjord",
+    "url": "https://www.kvafjord.kommune.no/",
+    "mail": "Postmottak@kvafjord.kommune.no"
+  },
+  {
+    "navn": "Br\u00f8nn\u00f8y",
+    "url": "http://www.bronnoy.kommune.no/",
+    "mail": "postmottak@bronnoy.kommune.no"
+  },
+  {
+    "navn": "Alstahaug",
+    "url": "https://www.alstahaug.kommune.no/",
+    "mail": "post@alstahaug.kommune.no"
+  },
+  {
+    "navn": "Lur\u00f8y",
+    "url": "http://www.luroy.kommune.no/",
+    "mail": "postmottak@luroy.kommune.no"
+  },
+  {
+    "navn": "R\u00f8d\u00f8y",
+    "url": "http://www.rodoy.kommune.no/",
+    "mail": "postmottak@rodoy.kommune.no"
+  },
+  {
+    "navn": "Jevnaker",
+    "url": "https://www.jevnaker.kommune.no/",
+    "mail": "postmottak@jevnaker.kommune.no"
+  },
+  {
+    "navn": "\u00c5snes",
+    "url": "https://www.asnes.kommune.no/",
+    "mail": "post@asnes.kommune.no"
+  },
+  {
+    "navn": "Valle",
+    "url": "https://www.valle.kommune.no/",
+    "mail": "post@valle.kommune.no"
+  },
+  {
+    "navn": "R\u00f8ros",
+    "url": "https://roros.kommune.no/",
+    "mail": "postmottak@roros.kommune.no"
+  },
+  {
+    "navn": "Hattfjelldal",
+    "url": "https://hattfjelldal.kommune.no/",
+    "mail": "postmottak@hattfjelldal.kommune.no"
+  },
+  {
+    "navn": "Sarpsborg",
+    "url": "https://www.sarpsborg.com/",
+    "mail": "postmottak@sarpsborg.com"
+  },
+  {
+    "navn": "Midtre Gauldal",
+    "url": "https://www.mgk.no/",
+    "mail": "postmottak@mgk.no"
+  }
+]
