@@ -23,6 +23,7 @@ fetch("util/kommuneliste/kommuner.json")
 
         nettside.textContent = kommune.url
         nettside.href = kommune.url
+        nettside.target = "_blank"
         row.appendChild(nettsidecell)
 
         table.appendChild(row)
