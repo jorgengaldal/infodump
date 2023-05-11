@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.591057mm"
+   height="25.591057mm"
+   viewBox="0 0 25.591057 25.591057"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Users\Jørgen Galdal\Documents\Lokal programmering\infodump\favicon.png"
+   inkscape:export-xdpi="31.761086"
+   inkscape:export-ydpi="31.761086">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="67.172494"
+     inkscape:cy="51.972593"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g865"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="1566"
+     inkscape:window-height="1020"
+     inkscape:window-x="128"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-51.382871,-103.04921)">
+    <g
+       id="g865"
+       transform="rotate(-136.17494,65,115.06224)"
+       inkscape:export-xdpi="399.83374"
+       inkscape:export-ydpi="399.83374">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.872437;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path867"
+         cx="31.959526"
+         cy="-127.23983"
+         r="12.795528"
+         transform="rotate(136.17494)"
+         inkscape:export-xdpi="31.761086"
+         inkscape:export-ydpi="31.761086" />
+      <g
+         id="g872">
+        <ellipse
+           style="fill:#9375d3;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="path841"
+           cx="65"
+           cy="120.38541"
+           rx="5"
+           ry="2.6930804" />
+        <path
+           id="rect843"
+           style="fill:#9375d3;fill-opacity:1;stroke-width:0.499999;stroke-linecap:round;paint-order:stroke fill markers"
+           d="m 58,110 h 14 l -2,10.38541 -10,-5e-5 z"
+           sodipodi:nodetypes="ccccc" />
+        <ellipse
+           style="fill:#a998c7;fill-opacity:1;stroke:#27174a;stroke-width:0.8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="path841-1"
+           cx="65"
+           cy="110"
+           rx="7"
+           ry="2.6930804" />
+      </g>
+    </g>
+  </g>
+</svg>
