@@ -7,18 +7,23 @@ fetch("util/kommuneliste/kommuner.json")
         let row = document.createElement("tr")
         let navn = document.createElement("td")
         let mailadresse = document.createElement("td")
-        let nettside = document.createElement("td")
+        let nettsidecell = document.createElement("td")
+        let nettside = document.createElement("a")
+        nettsidecell.appendChild(nettside)
         
         navn.textContent = kommune.navn
-        nettside.textContent = kommune.url
+        row.appendChild(navn)
+
         if (kommune.mail == "Placeholder") {
-            mailadresse.textContent = "Har ikke epostadresse"
+            mailadresse.textContent = "Har ikke postboks"
         } else {
             mailadresse.textContent = kommune.mail
         }
-        row.appendChild(navn)
         row.appendChild(mailadresse)
-        row.appendChild(nettside)
+
+        nettside.textContent = kommune.url
+        nettside.href = kommune.url
+        row.appendChild(nettsidecell)
 
         table.appendChild(row)
         
