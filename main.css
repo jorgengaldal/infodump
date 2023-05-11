@@ -1,0 +1,66 @@
+.ingress {
+    font-style: italic;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.content-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;   
+}
+
+.kommunetable {
+    border-top-left-radius: 0.8em;
+    border-top-right-radius: 0.8em;
+    border-collapse: collapse;
+    border-bottom: 4px #5734a29f solid;
+    
+    box-shadow: 0 0px 20px -8px#090909;
+    overflow: hidden;
+}
+
+.kommunetable .kommunenavncell {
+    font-weight: 600;
+    text-align: right;
+}
+
+.kommunetable thead {
+    font-weight: 700;
+    font-size: 1.2em;
+    color: white;
+    background-color: #5734a29f;
+
+    box-shadow: 0px 2px 6px -4px #090909;
+}
+
+.kommunetable tbody tr:hover {
+    color: hsl(259, 70%, 40%)
+}
+
+.kommunetable td {
+    padding: 0.5em;
+}
+
+.kommunetable th {
+    padding: 0.8em;
+}
+
+.kommunetable tr:nth-child(2n) {
+    background-color: whitesmoke;
+}
+
+
+h1 {
+    font-family:  Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}

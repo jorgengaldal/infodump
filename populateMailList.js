@@ -12,6 +12,7 @@ fetch("util/kommuneliste/kommuner.json")
         nettsidecell.appendChild(nettside)
         
         navn.textContent = kommune.navn
+        navn.classList.add("kommunenavncell")
         row.appendChild(navn)
 
         if (kommune.mail == "Placeholder") {

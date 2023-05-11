@@ -9,8 +9,13 @@
     <link rel="stylesheet" href="main.css">
 </head>
 
-<body><div class="content-wrapper">
-    
+<body>
+
+    <div class="navbar" width="100%" style="height: 6em; width: 100%; background-color: #5734a29f;">
+    </div>
+
+    <div class="content-wrapper">
+
         <h1>Liste over epostadresser til norske kommuner</h1>
         <p class="ingress">
             Det finnes ikke noe lett tilgjengelig oversikt over epostadresser for norske kommuner.
@@ -19,21 +24,22 @@
         </p>
 
         <p>
-            Tabellen kan også lastes ned i JSON-format ved å klikke <a download="KommunerNettsideOgEpost.json" href="util/kommuneliste/kommuner.json">her</a>.
+            Tabellen kan også lastes ned i JSON-format ved å klikke <a download="KommunerNettsideOgEpost.json"
+                href="util/kommuneliste/kommuner.json">her</a>.
         </p>
-    
-        <table>
+
+        <table class="kommunetable">
             <thead>
-                <td>Kommune</td>
-                <td>E-postadresse</td>
-                <td>Nettside</td>
+                <th>Kommune</th>
+                <th>E-postadresse</th>
+                <th>Nettside</th>
             </thead>
             <tbody id="mailtablebody">
-    
+
             </tbody>
         </table>
         <script src="populateMailList.js"></script>
-</div>
+    </div>
 </body>
 
 </html>
